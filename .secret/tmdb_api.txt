@@ -1,0 +1,5 @@
+{
+    "client-id" : "eccecarreon",
+    "api-key" : "9f61fee6a6c0101d1c08029bcb949d1a",
+    "api-read-access-token" : "eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5ZjYxZmVlNmE2YzAxMDFkMWMwODAyOWJjYjk0OWQxYSIsInN1YiI6IjY2MTAzZmNhMmQ5Mzc1MDE3ZDFlNGVjMiIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.4L7fjOWwAveDVWv7T1DTdnFkLrKm6BDsPbjMl2dL19Y"
+}
